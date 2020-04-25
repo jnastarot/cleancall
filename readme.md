@@ -22,7 +22,7 @@ Supported Windows
 
 Example Use
 ----
-(https://github.com/jnastarot/cleancalli/tree/master/example_call/example_call.cpp)<br>
+(https://github.com/jnastarot/cleancall/tree/master/example_call/example_call.cpp)<br>
 
 ```
 #include <cleancall.h>
