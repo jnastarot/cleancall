@@ -1,0 +1,2 @@
+E:\projects\cleancall\bin\Debug32\cleancall.pdb
+E:\projects\cleancall\tmp\cleancall_Debug32\cleancall.pdb
