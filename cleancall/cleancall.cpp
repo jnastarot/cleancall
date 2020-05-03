@@ -84,7 +84,7 @@ namespace cleancall {
 
 #ifdef _M_AMD64
 
-        switch (cleancall__used__syscall_type) {
+        switch (used_gate_type) {
 
         case SYSCALL_CALL_TYPE_SYSCALL: {
 
