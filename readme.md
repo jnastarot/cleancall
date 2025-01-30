@@ -8,7 +8,7 @@ It automatically detect type of gate for call system call (`WOW64` \ `Int2E` \ `
 --------------------------------------------------------------------------------
 Name....: clean call
 Author..: JNA
-e.mail..: jnastarot@yandex.ru
+e.mail..: jnastarot@duck.com
 --------------------------------------------------------------------------------
 ```
 
